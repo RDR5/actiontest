@@ -1,0 +1,22 @@
+name: a
+age: 10
+key: 
+    key: value
+    key2: 33
+    key3:
+         key:  value
+         key2: value
+    jsonObject: {key: vlaue, key2:33, key3: {key: value, key2: value}}
+array:
+    - item1
+    - item2
+    - {key: value}
+jsonArray: [item1, item2]
+objectsArray:
+    - key: value
+      addedKey: value2
+    - key2: value
+      addedValue2SpcaesIndented: value
+longText: >
+    qwertyuiop qwertyuiop qwertyuiop
+    qwertyuiop qwertyiop qwerertyiop
